@@ -69,6 +69,7 @@ body{background:var(--stage);color:var(--on);font-family:"Roboto Flex","Roboto",
 .slide.active{visibility:visible;opacity:1;transform:none;transition:opacity .35s var(--emph) .08s,transform .6s var(--emph),visibility 0s}
 .slide.back{transform:translateX(-40px)}
 .slide.hero{background:var(--primary);color:var(--onp)}
+.hero-photo{position:absolute;top:0;right:0;bottom:0;width:470px;height:100%;object-fit:cover;object-position:center top}
 .slide.tonal{background:var(--pc);color:var(--onpc)}
 
 h1{font-size:76px;line-height:1.02;font-weight:760;letter-spacing:-.025em;font-variation-settings:"opsz" 144,"wdth" 100;max-width:17ch}
