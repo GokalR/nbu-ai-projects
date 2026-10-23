@@ -1,0 +1,10 @@
+{
+  "name": "ai-in-work-presentation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "HTML presentation: 41 slides with embedded platform walkthrough.",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
