@@ -14,7 +14,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: block;
-  src: url(../fonts/font-db6b1ba80e52.ttf) format('truetype');
+  src: url(../fonts/material-symbols-subset.woff2) format('woff2');
 }
 
 .material-symbols-rounded {
@@ -33,12 +33,12 @@
 
 /* base-3 */
 :root{
-  --surface:#F8FAFD; --sc:#EEF2F8; --sch:#E1E7F0; --on:#1B1C1F; --onv:#44474E; --outline:#C4C7CF;
+  --surface:#FFFFFF; --sc:#EEF2F8; --sch:#E1E7F0; --on:#1B1C1F; --onv:#44474E; --outline:#C4C7CF;
   --primary:#0B57D0; --onp:#FFFFFF; --pc:#D3E3FD; --onpc:#041E49;
   --green:#146C2E; --gc:#C4EED0; --ongc:#072711;
   --amber:#8A5A00; --ac:#FFDFA0; --onac:#2B1700;
   --red:#B3261E; --rc:#F9DEDC; --onrc:#410E0B;
-  --stage:#DDE3EA;
+  --stage:#FFFFFF;
   --spring:linear(0, 0.012 0.8%, 0.05 1.6%, 0.2 3.4%, 0.44 5.8%, 0.7 8.6%, 0.9 11.6%, 1.03 14.8%, 1.09 18%, 1.1 21%, 1.08 24.6%, 1.035 29.6%, 1.0 35%, 0.985 41%, 0.99 50%, 1.002 64%, 1);
   --spring-d:760ms;
   --emph:cubic-bezier(.2,0,0,1);
